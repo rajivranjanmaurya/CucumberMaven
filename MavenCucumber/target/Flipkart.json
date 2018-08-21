@@ -1,0 +1,116 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 6,
+        "name": "Title of your scenario",
+        "description": "",
+        "id": "title-of-your-feature;title-of-your-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3320445153,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Open Flipkart",
+            "match": {
+              "location": "StepDef.openFlipkart()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 82514,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Check Flipkart",
+            "match": {
+              "location": "StepDef.checkFlipkart()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 74304,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Flipkart Opened",
+            "match": {
+              "location": "StepDef.openedFlipkart()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 5,
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "line": 12,
+        "name": "Title of your scenario",
+        "description": "",
+        "id": "title-of-your-feature;title-of-your-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 154356,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Open Flipkart",
+            "match": {
+              "location": "StepDef.openFlipkart()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 62399,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Check Flipkart",
+            "match": {
+              "location": "StepDef.checkFlipkart()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 52957,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Flipkart Opened",
+            "match": {
+              "location": "StepDef.openedFlipkart()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 11,
+            "name": "@reg"
+          }
+        ]
+      }
+    ],
+    "name": "Title of your feature",
+    "description": "I want to use this template for my feature file",
+    "id": "title-of-your-feature",
+    "keyword": "Feature",
+    "uri": "features/one.feature"
+  }
+]

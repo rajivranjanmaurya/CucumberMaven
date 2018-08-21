@@ -1,0 +1,3 @@
+Runner\AmazonTestRunner.class
+stepDefinitions\StepDef.class
+Runner\FlipkartTestRunner.class
