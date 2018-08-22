@@ -52,4 +52,6 @@ public class StepDef {
 	public void openedAmazon(){
 		System.out.println("openedAmazon");
 	}
+	
+	//Added comment
 }
